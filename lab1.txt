@@ -1,0 +1,8 @@
+1,Detection,lunch at the cannibal,6/20/2012,Daria Dontsova
+2,Roman,War and Piece,5/3/2010,Tolstoi L.N.
+3,Satira,Dead Spirits,4/7/1995,Gogoli N.V.
+4,Fantastics,Master and Margarita,11/26/2004,Bulgacov
+5,Story,Heart of a Dog,3/7/2006,Bulgacov
+6,Satira,Revizor,11/12/2011,Gogoli N.V.
+7,Roman,Anna Karenina,1/1/2003,Tolstoi L.N.
+8,Story,Childhood,5/16/1992,Tolstoi L.N.
